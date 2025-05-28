@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6836d3837fc6130f5eb77609"
+  },
+  "Name": "Arnau",
+  "Address": "Right Street, 123",
+  "Telephone": "678921235",
+  "Email": "email@email.com",
+  "RegisterDate": "2023-09-23",
+  "LastShoppings": [
+    {
+      "Brand": "Rayban",
+      "Graduation": {
+        "Left": 2.3,
+        "Right": 2
+      },
+      "GlassColor": {
+        "Left": "no color",
+        "Right": "no color"
+      },
+      "FrameType": "Metallic",
+      "Price": 127
+    }
+  ]
+}]
